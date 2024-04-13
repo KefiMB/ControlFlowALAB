@@ -37,3 +37,4 @@ console.log("Week 2: " + finalPlantCount * 2 +
 " plants, " + (occupiedArea * 2) + " square meters.");
 console.log("Week 3: " + finalPlantCount * 4 +
 " plants, " + (occupiedArea * 2) + " square meters.");
+
